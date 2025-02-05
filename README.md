@@ -49,5 +49,3 @@ Rscript script_name.R
 - t-SNE visualizations.
 - Bar chart for APOE genotype distribution.
 
-## Contact
-For questions or contributions, please reach out via GitHub or email.
