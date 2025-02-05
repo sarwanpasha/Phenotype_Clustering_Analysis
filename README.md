@@ -40,7 +40,7 @@ install.packages(c("dplyr", "ggplot2", "caret", "cluster", "Rtsne"))
 Ensure the dataset `phenotype_file.txt` is available in the working directory, then execute the script in R.
 
 ```r
-source("script_name.R")
+Rscript script_name.R
 ```
 
 ## Output
